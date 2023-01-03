@@ -1,2 +1,2 @@
-!#/usr/python3
-pytgon3 ./$PYFILE
+#!/usr/bin/python3
+python3 ./$PYFILE

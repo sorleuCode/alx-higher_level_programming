@@ -7,4 +7,4 @@ def replace_in_list(my_list, idx, element):
         else:
             my_list.insert(idx, element)
 
-    return my_list
+            return my_list

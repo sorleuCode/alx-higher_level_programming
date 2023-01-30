@@ -1,4 +1,6 @@
 #!/usr/bin/python3
+# 0-square.py by Muhammed Soliu
+"""A module that defines a square """
 
 class Square:
     """A class that represents a square"""
